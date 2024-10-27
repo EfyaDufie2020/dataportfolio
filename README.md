@@ -10,6 +10,7 @@ Below are Data Analytics and Machine Learning projects I have worked on, categor
 E-mail: mercydboateng@gmail.com
 
 
+
 ### Technical Skills:  
 - Project Review, Data Cleaning, Data Validation, BI Dashboard Design, Data Visualization, Data Analytics, Data Story Telling, Scrum, Quality Assurance, Report Writing & Customer Service.
 		
