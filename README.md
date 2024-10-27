@@ -54,7 +54,7 @@ Recommendations were provided to help the client make data driven decisions to i
 
 <br>
 
-[Dashboard](https://app.powerbi.com/groups/me/reports/f5b73e7c-4286-4e4a-804e-e1dd0465af24/91fba607080cd602d082?experience=power-bi))
+[Dashboard](https://app.powerbi.com/groups/me/reports/f5b73e7c-4286-4e4a-804e-e1dd0465af24/91fba607080cd602d082?experience=power-bi)
 
 
 
