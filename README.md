@@ -48,16 +48,14 @@ Recommendations were provided to help the client make data driven decisions to i
 
 #### Tools: GitHub, Vs Code and Microsoft Power Bi
 
-<br>
 
 [View Project](EfyaDufie2020/Business-Intelligence-Solutions-for-Bay-Technologies(github.com))
 
-<br>
 
 [Dashboard](https://app.powerbi.com/groups/me/reports/f5b73e7c-4286-4e4a-804e-e1dd0465af24/91fba607080cd602d082?experience=power-bi)
 
 
-
+<br>
 
 
 ### 2. Indian Start-Up Ecosystem.
@@ -79,7 +77,6 @@ Additionally, I identified other promising opportunities within the market. I em
 
 [View Project](EfyaDufie2020/Indian-Start-Up-Ecosystem (github.com))
 
-<br>
 
 [Dashboard]
 
@@ -111,11 +108,10 @@ By leveraging advanced data analytics machine learning techniques and CRISP-DM m
  
 ### Tools: Git Hub, Microsoft Power BI & Vs Code
 
-<br>
+
 
 [View Project](EfyaDufie2020/Customer-Churn-Analysis (github.com))
 
-<br>
 
 [Dashboard]
 
@@ -123,7 +119,7 @@ By leveraging advanced data analytics machine learning techniques and CRISP-DM m
 
 
 
-
+<br>
 
 
 ### 4. Time Regression Analysis
@@ -151,18 +147,18 @@ The project can be further extended by incorporating additional factors such as 
 
 ### Tools: GitHub, Microsoft Power BI and Vs Code
 
-<br>
+
 
 [View Project](https://github.com/EfyaDufie2020/Time-Series-Regression-Analysis)
 
-<br>
+
 
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODFlZTFlM2MtMWI1Ni00MzU4LWJkYjYtMjc5NWFkNWRhMzJiIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
 
 
 
 
-
+<br>
 
 
 
