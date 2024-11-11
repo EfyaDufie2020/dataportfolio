@@ -162,7 +162,7 @@ The project can be further extended by incorporating additional factors such as 
 
 
 
-### 5. Embeddiing ML Model with Streamlit
+### 5. Embedding ML Model with Streamlit
 
 ![Embed ML Photo](./Images/1684903340372.jpeg)
 
@@ -174,11 +174,12 @@ This project showcases how to embed machine learning (ML) models into web framew
 - The project demonstrates how to deploy a pre-trained ML model using Streamlit.
 - It covers the process of loading a trained model, creating a user interface, and integrating the ML model into the application.
 - The code provided includes examples of handling different types of ML models, such as regression, classification, and image analysis.
-- 
+
+  
 ## Deployment
 
 - Hosting containers using  Docker.
-- Deployent was created using render engine
+- Deployment was created using render engine
 
 
 
