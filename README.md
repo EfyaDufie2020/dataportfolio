@@ -49,7 +49,7 @@ Recommendations were provided to help the client make data driven decisions to i
 #### Tools: GitHub, Vs Code and Microsoft Power Bi
 
 
-[View Project](EfyaDufie2020/Business-Intelligence-Solutions-for-Bay-Technologies(github.com))
+[View Project](https://github.com/EfyaDufie2020/Business-Intelligence-Solutions-for-Bay-Technologies)
 
 
 [Dashboard](https://app.powerbi.com/groups/me/reports/f5b73e7c-4286-4e4a-804e-e1dd0465af24/91fba607080cd602d082?experience=power-bi)
@@ -75,7 +75,7 @@ Additionally, I identified other promising opportunities within the market. I em
 
 <br>
 
-[View Project](EfyaDufie2020/Indian-Start-Up-Ecosystem (github.com))
+[View Project](https://github.com/EfyaDufie2020/Indian-Start-Up-Ecosystem)
 
 
 [Dashboard]
@@ -110,7 +110,7 @@ By leveraging advanced data analytics machine learning techniques and CRISP-DM m
 
 
 
-[View Project](EfyaDufie2020/Customer-Churn-Analysis (github.com))
+[View Project](https://github.com/EfyaDufie2020/Customer-Churn-Analysis)
 
 
 [Dashboard]
